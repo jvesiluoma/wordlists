@@ -1,3 +1,3 @@
 # Random wordlists
 
-"fin-swe-passwdlist.7z" - file contains 326 932 unique passwords (finnish and swedish) (combined from Breachcompilation + alypaa breach)
+"fin-swe-passwdlist.7z" - file contains 32 395 203 unique passwords (finnish and swedish) (combined from Breachcompilation + alypaa breach)
